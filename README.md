@@ -1,2 +1,3 @@
 # Ollama
 # Ollama
+# terminal
